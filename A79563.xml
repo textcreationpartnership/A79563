@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honorable the Lord Major and Aldermen of the City of London. The remonstrance and petition of Thomas Church Esq.</title>
+            <author>Church, Thomas, of Ulster.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79563</idno>
+            <idno type="STC">Wing C3992</idno>
+            <idno type="STC">Thomason E18_17</idno>
+            <idno type="STC">ESTC R210034</idno>
+            <idno type="EEBO-CITATION">99868869</idno>
+            <idno type="PROQUEST">99868869</idno>
+            <idno type="VID">121225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121225)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E18[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honorable the Lord Major and Aldermen of the City of London. The remonstrance and petition of Thomas Church Esq.</title>
+                  <author>Church, Thomas, of Ulster.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 26. 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church, Thomas, --  of Ulster --  Early works to 1800.</term>
+               <term>Plantations --  Northern Ireland --  Londonderry (County) --  History --  Early works to 1800.</term>
+               <term>Londonderry (Northern Ireland : County) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:121225:1" rendition="simple:additions"/>
+            <head>To the Right Honorable the Lord Major and Aldermen of the City of <hi>London.</hi>
+            </head>
+            <head type="sub">The Remonſtrance and Petition of <hi>Thomas Church</hi> Eſq;</head>
+            <opener>Moſt humbly ſhewing,</opener>
+            <p>THat your Petitioner having ſetled himſelfe at the firſt on your Planta<g ref="char:EOLhyphen"/>tions in <g ref="char:V">Ʋ</g>lſter, was long imployed by ſome of your chiefe Corporations had intereſt therein, though the ill carriage of your grand Agent, Mr. <hi>Be<g ref="char:EOLhyphen"/>risford,</hi> much hindred that ſervice, who to work himſelfe into favour with thoſe that there then ruled in chiefe, At the firſt let ſlip with <hi>Eniſhowne,</hi> ſome two thouſand Acres of Land, after the Kings then accuſtomed Survey, that ſhould have belonged to <hi>Derry,</hi> with ſome thouſand Acres more from <hi>Colraine,</hi> together with the Rights and Priviledges thereto belonging; and ſuffered your Rents, Woods, and Fiſhings to bee common to all pleaſed him: Beſides the innumerable ſtore there of his Ironworkes ſpent and deſtroyed, and all to gaine to himſelfe and friends great bargains of your beſt pro<g ref="char:EOLhyphen"/>fits and Revenues there (wherein ſome here was ſurely to blame) which o<g ref="char:EOLhyphen"/>thers perceiving, got whole proportions from your moſt diſcontented Corporati<g ref="char:EOLhyphen"/>ons at ſuch underrates, as brought this magnificent City of <hi>London,</hi> in ſo mean and ſlight eſteeme, with ſome that could not ſcrue themſelves into the like, brought caviling ſuits in his Majeſties Name againſt you and thoſe ſtood for your Rights, that for a long time, little of thoſe Rents was paid, but by the extreameſt meanes, wherein I had periſhed and all mine, had not the Right Worſhipfull Company of <hi>Mercers</hi> born us out in all juſt wayes, as the Worſhipfull Company of <hi>Vintners</hi> did, to whom I gave all due ſatisfaction; But your vaſt Arreares of ſome ten thouſand pounds, wat ſo long before I had to doe therewith, that I could doe ſmall good therein, till your troubles and the Sequeſtration thereof ſtopped the ſame to the loſſe of all, with ſore Charges, Fines, and Diſpleaſures. The which that all undertakers, and Adventurers may prevent in time to come, cauſeth mee, as in duty bound, to preſent unto your Worthy conſiderations, theſe Propo<g ref="char:EOLhyphen"/>ſitions, for the eſtabliſhing ſuch a government there, that may timely meet with all manner of inconveniencies for the good and ſafety of all <hi>Britaine,</hi>
+               <pb n="2" facs="tcp:121225:2"/>as well as it, And regaining your own, in a faire and honourable way, with all forfeited by that Rebellion, to you and your ſeverall Corporations. And as the ſaid Mr. <hi>Berisfords</hi> over-ruling in peace proved deſtructive, ſo it continued, by his not cauſing the <hi>Britiſh</hi> to entirely riſe as I moſt earneſtly deſired, at the firſt to ſuppreſſe that rebellion, which had been moſt caſie to do, but ſuffered his Son <hi>Michael</hi> an Eſquire, with his ſiſter the Lady <hi>Cook,</hi> To leave that ſtrong Caſtle of <hi>Dongivin,</hi> As <hi>Henry Conway,</hi> Eſquire, did the <hi>Vintners,</hi> to the Rebels, to the quite overthrow of thoſe parts; So as the ſaid <hi>Berisford,</hi> (to ſave his Ironworkes) perſwaded the ſtrength of <hi>Colrain,</hi> and the <hi>Britiſh</hi> thereabouts, to garriſon at <hi>Garvagh,</hi> a poore thatched Village without defence, where the thirteenth of <hi>Decemb. 1641.</hi> they were all ſlaine to a very few, their Armes and Munition loſt, and all that whole Country over-run by fire and Sword, So as the Commiſſioners of <hi>Col<g ref="char:EOLhyphen"/>rain,</hi> ſent for my aid, that wanted Match and ſome other proviſion, (though by the right Worthy <hi>Mercers</hi> providence, had good ſtore of Powder and Armes, in ſo much as I left the Right worthy <hi>Mercers</hi> Caſtle, with all my goods therein (after I had held it out ſeven weeks and three dayes) with two neere Kinſmen of the Earle of <hi>Antrims,</hi> (by the advice of the ſaid Commiſſioners) who undertook the ſafety thereof, they then ſeeming not to affect that Rebellion, whoſe Lands are ſufficient to make all good. And thus with no ſmall danger, I brought neere two hundred <hi>Britiſh</hi> to <hi>Cole<g ref="char:EOLhyphen"/>rain,</hi> without loſſe of any, where I found them in a ſad condition, yet incouraged them ſo, as wee made up ſeven hundred Foote, and fifty Horſe, And ſet it in a true poſture of defence, after the Diſcipline of the Low Coun<g ref="char:EOLhyphen"/>tries, where firſt I was bred; and made ſome Lethar-gunnes, with two peeces of Artillery, at my own charge, And cauſed the weakeſt parts there<g ref="char:EOLhyphen"/>of to bee Paliſadoed, and cloſe fights made for ſaving our men, being for ſixteen weekes ſpace begirt in with ſome five thouſand Rebells, ſo as our duties proved extreame, and Peſtilence with Famine, tooke ſome thou<g ref="char:EOLhyphen"/>ſands to the grave, many dying in their own Ordure, up and down the ſtreets. Beſides all other our Loſſes, Croſſes, and dyſaſters, through treacherous, wilfull and perverſe Counſells and dealings, ſome of the beſt and neereſt to the ſaid <hi>Berisford,</hi> favouring thoſe <hi>Iriſh</hi> too much, as ever hee did, yet wee held it out till about the ſeventeenth of <hi>October</hi> following, that news came thither that wee were all caſt, and new men entred the ſame to our ter<g ref="char:EOLhyphen"/>rible loſſe, and diſparagement, being all the <hi>Engliſh</hi> Tenants, of your own planting, that was thereabouts left alive, by that Maſſacre, able to beare Armes; And is like never to bee recovered, but by a true ſetled Government,
+<pb n="3" facs="tcp:121225:2"/>in a brotherly way. But not thus compelled to part with our birth-right, and all our poſſeſſions, for leſſe then a meſſe of Pottage, after ſo high de<g ref="char:EOLhyphen"/>ſervings, as to Raiſe, Arme, Horſe, Cloathe, and maintain ſo many men, for ſo long a time, with that ſaved from thoſe Rebels, upon the onely in<g ref="char:EOLhyphen"/>couragements of this Honourable Parliament, That may it pleaſe you for their honours, maturely to conſider that thoſe Towns, and eſpecially <hi>Cole<g ref="char:EOLhyphen"/>rain,</hi> that coſt you ſo much, being but deſired for their garriſon, upon need<g ref="char:EOLhyphen"/>full occaſions of retreat, when footing with ſafety was ſcarce thought there to bee had, will bee the better ſpared now, there is ſo much roome, as not a conſiderable party of Enemies doth remaine within ſome hundred miles of that place, or in all <hi>Ulſter,</hi> unleſſe ſome ſew at <hi>Dongannon,</hi> and <hi>Charli<g ref="char:EOLhyphen"/>mount,</hi> that is farre from it. And eſpecially now three thouſand of that new Army, of the ten thouſand <hi>Scots,</hi> hath left that Kingdome ſo long ſince, ſo as they there yet remain with the reſt of thoſe old Forces, may pur<g ref="char:EOLhyphen"/>ſue the Enemy, as hereafter mentioned, for which purpoſe they have their pay, and the reſt by due Government, may raiſe what profits there is to bee made for the better ſupply and reliefe of them; and the eaſe and ſafety to all <hi>Britaine,</hi> as extreame neceſſity now requireth. Your Ho<g ref="char:EOLhyphen"/>nours Petitioner for thoſe Commanders, yet unſatisfyed any thing, doe de<g ref="char:EOLhyphen"/>ſire now that allowed by the Parliament may bee ſent them, it beeing ſo little and long time due; And that thoſe other <hi>Britiſh</hi> with himſelfe, and Sonnes, there planted by this Honourable City of <hi>London,</hi> may bee favour<g ref="char:EOLhyphen"/>ed and imployed, but as to Law, Reaſon and Juſtice ſhall ſeem meet.</p>
+            <closer>
+               <signed>And Your Honours Petitioner ſhall duly pray, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:121225:3"/>
+            <head>To the Right Worſhipfull Committee of Adventurers for Land in <hi>Jreland.</hi> The humble Propoſitions and Petition of <hi>Thomas Church.</hi>
+            </head>
+            <opener>FIRST,</opener>
+            <p>VVHereas the Agents for thoſe Armies, are content with a third part of pay for all their Commanders, to the Serge<g ref="char:EOLhyphen"/>ants; and the reſt with half pay and cloathing; You may be pleaſed to procure a ſelect Committee of your owne, to raiſe Proviſions, there to maintain 20000 at the leaſt, by ſending (with the Or<g ref="char:EOLhyphen"/>dinance therefore) your Aſſurance by fit men, That what each Pariſh, or party, now do give, lend, or adventure, for Lands in <hi>Ireland,</hi> ſhall bee imployed towards regaining the ſame, and no otherwiſe. And that a due Record thereof ſhall remaine with you, for them and their poſterity, to bee ſatisfied therein upon all oc<g ref="char:EOLhyphen"/>caſions, that by a ſetled and conſtant courſe, meanes for thoſe Ar<g ref="char:EOLhyphen"/>mies may bee in a perfect readineſſe, and one quarters pay, at the leaſt alwaies there under ſafe cuſtody to be delivered as you ſhall ap<g ref="char:EOLhyphen"/>point, from the time you begin.</p>
+            <p>Secondly, That two Commiſſaries of known truſt and skill bee imployed thither, (that hath no relation to any of thoſe Com<g ref="char:EOLhyphen"/>manders,) with other Commiſſioners there appointed, to recrute all thoſe Troops moſt fit for War, and Field-ſervice, into hundreds, (beſides the Captains and Lieutenants) and each like Foot Com<g ref="char:EOLhyphen"/>pany into 90 Muſquettiers, and 60 Pikes, (beſides Officers) with the reſt that are not ſo convenient, and eight of thoſe Companies to a Regiment. To the taking away much danger, and all unne<g ref="char:EOLhyphen"/>ceſſary charge. And then paid and ſo continued.</p>
+            <p>Thirdly, That each Commiſſary may have power from time to
+<pb n="5" facs="tcp:121225:3"/>time to call to their aſſiſtance ſuch chiefe men of truſt, (not be<g ref="char:EOLhyphen"/>longing to any thoſe Armies) as thoſe places ſhall afford, where they ſhall take their Muſters in, that the Accounts thereof bee cer<g ref="char:EOLhyphen"/>tifyed under other mens hands, as well as their owne; And that they ſee the Souldiers have that allowed them by the State, and doe exactly muſter once every halfe yeere, all other the Britiſh in<g ref="char:EOLhyphen"/>habitants there, from fifteen to threeſcore yeeres of age, that their ſtrength bee truely known, and ordered accordingly, and that they have power to command their guard from place to place a<g ref="char:EOLhyphen"/>bout thoſe affaires.</p>
+            <p>Fourthly, That no man do muſter for a Souldier in other name then his own upon paine of death, and checke to ſuch Officers of all their meanes then due, as ſhall ſo attempt, and that every Governour and Aſſiſtant doe take ſpeciall care herein, and that thoſe Armies bee diſpatched to the Field in all convenient time, to cleare as they goe, and live by the enemies ſpoyles, and Garriſon themſelves ſo neare their Coaſts, as to bee with them upon all occaſions.</p>
+            <p>Fifthly, Whereas no people can bee truely happy, without a due ſetled Government, that for every conſiderable place there, a Governour bee appointed, with twelve more of the beſt affected Britiſh within their ſeverall Precincts, upon all fitting occaſions, to rule by Marſhall Law during pleaſure, that offenders bee reclai<g ref="char:EOLhyphen"/>med or cut off, and the Subject cheriſhed, and incouraged to all manner of good husbandry, and Tillage, and drawn into Liſt, from fifteen, to threeſcore yeeres of age, under fitting Comman<g ref="char:EOLhyphen"/>ders, for the better ſafety both of Town and Country; And that every Governour have his Provoſt Marſhall with twenty men or leſſe, as need ſhall require, to guard and keep their ſeverall pre<g ref="char:EOLhyphen"/>cincts, from Rebels, Theeves, and oppreſſors, and do preſerve all Woods and Fiſhings, and that all ſuch Governours do every halfe yeere give in their ſeveral Accounts, that a true Record therof may bee had in either Kingdom without deniall to any, whom it may concern, and do referre their pay to their ſeverall deſervings.</p>
+            <p>Sixthly, that to the Government of <hi>London-derry,</hi> and thoſe Liberties with the two next Baronies belonging thereto, of <hi>Ke<g ref="char:EOLhyphen"/>naugh,</hi> and <hi>Bainhur,</hi> bee laid, The two next Baronies of <hi>Eniſhowne,</hi> and <hi>Strabane,</hi> and to the Government of the Town and Liberties
+<pb n="6" facs="tcp:121225:4"/>of <hi>Colraine,</hi> and that Baronie with the Baronie of <hi>Loughinſolin</hi> bee laid, the two next Baronies on <hi>Antrim</hi> ſide, the River of <hi>Bann,</hi> from the Sea towards <hi>Loughbeg,</hi> and the rather for that it was ſo determined, for the eaſe, ſafety, and good of thoſe parts, when his Majeſtie by his Commiſſioners, entred on thoſe Lands and Re<g ref="char:EOLhyphen"/>venues, which belonged to the Honorable City of <hi>London;</hi> and that they, with you, have the nomination of Governours there too, in regard of their great care, and vaſt expence thereon, for the ge<g ref="char:EOLhyphen"/>nerall good, and ſetling of your plantations together.</p>
+            <p>Seventhly, That every Governour within their ſeverall Pre<g ref="char:EOLhyphen"/>cincts towards the better maintenance of thoſe warres, have power to raiſe all profits and Commodities of Lands, Rents, Fiſhings, and Cuſtomes, in a faire and indifferent way, and to call all ſuch to account, as have received the like, ſince the beginning of thoſe warres: And what thoſe Armies or any part of them have taken or received from any of thoſe Britiſh Plantationers, to goe on in their pay, That the true Owners thereof, with the Creditors, and oppreſſed, bee ſatisfyed in Lands or Monies, and not driven from their own, as they have been, but rather allowed all other their loſſes out of thoſe Rebels Lands; and that upon Wine, <hi>Aquavitae,</hi> and Tobacco, Exciſe bee ſet for the more eaſe to <hi>England,</hi> all that may bee.</p>
+            <p>Eighthly, That no Governour, Officer, or Aſſiſtant, bee ad<g ref="char:EOLhyphen"/>mitted into that ſervice, or ſuffered to continue therein, that hath, or ſhall have any unlawfull dealings with any of thoſe Rebels, ſince their rebelling, or that hath colourable intereſts in any of their Lands, or given to pervert Juſtice, Or that hath ſlightly and careleſly loſt or given up into any of their hands, any City, Town, Caſtle, or ſtrong Hold: But that ſuch, and all Rebels Lands bee found out by all due meanes, and by each Governour, preſented to this Committee, That the King may bee rightly ſtated in all, that is loſt by that Rebellion, and each Lord of Lands, and the Adventurers have their right, And that no Cattell whatſoever bee tranſported out of <hi>Ireland,</hi> upon pain of puniſhment, and for<g ref="char:EOLhyphen"/>feiting the ſame, with ſuch Barkes and Boats, as ſhall ſo preſume.</p>
+            <p>Ninthly, That every ſitting Congregation have a ſufficient Preaching Miniſter, with reaſonable allowance where thoſe livings will not maintain them, but the malignant and ill-living Miniſter
+<pb n="7" facs="tcp:121225:4"/>to bee diſcharged. And the Ordinance for ſwearing, drunkenneſſe, and profaning the Lords Sabbath, bee put in due execution there.</p>
+            <p>Tenthly, That ſome prime Officers and Governours have pow<g ref="char:EOLhyphen"/>er to protect all ſuch <hi>Iriſh</hi> that by their Papiſticall Lords, Prieſts, and Gentry, have been cauſed to rebell, and will ſhew their re<g ref="char:EOLhyphen"/>pentance worthy of life, by their true carriage, and ſervice do<g ref="char:EOLhyphen"/>ing on the reſt, That upon ſettlement they may have pardons in new ſirnames, to the quite extirpating all their old rebellious names and Cepts; which being rightly ordered, will draw them into a religious obedience, to the ſaving much blood and treaſure, and ſoon gaining that Land, with the Commodities thereof.</p>
+            <p>Eleventhly, That you will bee pleaſed to take into your ſpeci<g ref="char:EOLhyphen"/>all conſideration, the true worth of Sir <hi>William Cole</hi> of <hi>Eniskillin,</hi> to bee Governour of <hi>London-Derry,</hi> and the foure Baronies thereto, as formerly mentioned, though my acquaintance is no otherwiſe of him, than from a long continued report of his Valour, and integrity to Juſtice, that hath been well tryed ſince that laſt rebelli<g ref="char:EOLhyphen"/>on, who doubtleſſe will ſtand the State, and You, with all of thoſe parts, in moſt ſingular good ſtead, for the generall good.</p>
+            <p>And whereas your Petitioner, with his foure ſonnes, loſt great eſtates by that Rebellion, beſides debts and goods of much value, yet upon this Honourable Parliaments incouragements, did raiſe two hundred choyce Britiſh Foot, and fifty Horſe, wherewith they did good ſervice, to the ſaving of <hi>Colraine, &amp;c.</hi> as hath been truely proved, but were caſt through your troubles here, with no more allowed us for ſome ten Moneths pay, then 170 pound; Though your Petitioner ſpent thereon 1365 pound, whereby wee are made deepe Adventurers to the ruine of us all, if not timely pre<g ref="char:EOLhyphen"/>vented.</p>
+            <p>May it therefore pleaſe you to imploy either of your petitioners Sonnes as Commiſſary for <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> and him<g ref="char:EOLhyphen"/>ſelfe Governour of <hi>Colraine,</hi> and thoſe foure Baronies, as formerly mentioned, for the more perfect effecting theſe ſervices to the life.</p>
+            <closer>And Your Honours Petitioner ſhall duly pray, &amp;c.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
